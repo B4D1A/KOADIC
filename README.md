@@ -10,7 +10,7 @@ Recent versions Koadic are developed on Python 3, it is not a priority to have P
 ### Install
 
 ```
-git clone https://github.com/zerosum0x0/koadic.git
+git clone https://github.com/B4D1A/KOADIC
 cd koadic
 pip3 install -r requirements.txt
 ./koadic
