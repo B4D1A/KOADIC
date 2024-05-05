@@ -1,4 +1,16 @@
-# ORIGINALLY DEVELOPED BY ZEROSUM0X0 (https://twitter.com/zerosum0x0)
+                  _____                                            _____ 
+                 ( ___ )                                          ( ___ )
+                  |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
+                  |   |       ______  _   _ _  _   _  _____        |   | 
+                  |   |      / / ___|| | | | || | | |/ / _ \__  __ |   | 
+                  |   |     / /\___ \| |_| | || |_| ' / | | \ \/ / |   | 
+                  |   |  _ / /  ___) |  _  |__   _| . \ |_| |>  <  |   | 
+                  |   | (_)_/  |____/|_| |_|  |_| |_|\_\___//_/\_\ |   | 
+                  |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
+                 (_____)                                          (_____)
+                                
+
+
 ![Koadic](https://i.imgur.com/RAlWfbD.png)
 # Koadic
 Koadic, or COM Command & Control, is a Windows post-exploitation rootkit similar to other penetration testing tools such as Meterpreter and Powershell Empire. The major difference is that Koadic does most of its operations using Windows Script Host (a.k.a. JScript/VBScript), with compatibility in the core to support a default installation of Windows 2000 with no service packs (and potentially even versions of NT4) all the way through Windows 10.
@@ -11,7 +23,7 @@ Recent versions Koadic are developed on Python 3, it is not a priority to have P
 
 ```
 git clone https://github.com/B4D1A/KOADIC
-cd koadic
+cd KOADIC
 pip3 install -r requirements.txt
 ./koadic
 ```
