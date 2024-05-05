@@ -1,14 +1,3 @@
-                  _____                                            _____ 
-                 ( ___ )                                          ( ___ )
-                  |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
-                  |   |       ______  _   _ _  _   _  _____        |   | 
-                  |   |      / / ___|| | | | || | | |/ / _ \__  __ |   | 
-                  |   |     / /\___ \| |_| | || |_| ' / | | \ \/ / |   | 
-                  |   |  _ / /  ___) |  _  |__   _| . \ |_| |>  <  |   | 
-                  |   | (_)_/  |____/|_| |_|  |_| |_|\_\___//_/\_\ |   | 
-                  |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
-                 (_____)                                          (_____)
-                                
 
 
 ![Koadic](https://i.imgur.com/RAlWfbD.png)
@@ -99,28 +88,14 @@ implant/utils/upload_file | Uploads a file from the listening server to the targ
 ### Disclaimer
 Code samples are provided for educational purposes. Adequate defenses can only be built by researching attack techniques available to malicious actors. Using this code against target systems without prior permission is illegal in most jurisdictions. The authors are not liable for any damages from misuse of this information or code.
 
-### Creators
-- [@Aleph_\__Naught](https://twitter.com/Aleph___Naught)
-- [@The_Naterz](https://twitter.com/The_Naterz)
-- [@JennaMagius](https://twitter.com/JennaMagius)
-- [@zerosum0x0](https://twitter.com/zerosum0x0)
-
-### Contributors
-- [@vvalien1](https://twitter.com/vvalien1)
-- fbctf
-- cclaus
-- Arno0x
-- delirious-lettuce
-- psmitty7373
-- [@ForensicITGuy](https://twitter.com/ForensicITGuy)
-
-### Acknowledgements
-Special thanks to research done by the following individuals:
-
-- [@subTee](https://twitter.com/subTee)
-- [@enigma0x3](https://twitter.com/enigma0x3)
-- [@tiraniddo](https://twitter.com/tiraniddo)
-- [@harmj0y](https://twitter.com/harmj0y)
-- [@gentilkiwi](https://twitter.com/gentilkiwi)
-- [@mattifestation](https://twitter.com/mattifestation)
-- clymb3r
+                  _____                                            _____ 
+                 ( ___ )                                          ( ___ )
+                  |   |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|   | 
+                  |   |       ______  _   _ _  _   _  _____        |   | 
+                  |   |      / / ___|| | | | || | | |/ / _ \__  __ |   | 
+                  |   |     / /\___ \| |_| | || |_| ' / | | \ \/ / |   | 
+                  |   |  _ / /  ___) |  _  |__   _| . \ |_| |>  <  |   | 
+                  |   | (_)_/  |____/|_| |_|  |_| |_|\_\___//_/\_\ |   | 
+                  |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
+                 (_____)                                          (_____)
+                                
